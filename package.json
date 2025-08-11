@@ -1,0 +1,10 @@
+{
+  "name": "hilton-bpp-concierge",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "formidable": "^3.5.4",
+    "openai": "^4.55.0"
+  }
+}
