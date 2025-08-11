@@ -3,10 +3,6 @@
     "api/ask.js": { "runtime": "nodejs18.x", "memory": 1024, "maxDuration": 20 },
     "api/ping.js": { "runtime": "nodejs18.x" }
   },
-  "routes": [
-    { "src": "/api/ask", "dest": "/api/ask.js" },
-    { "src": "/api/ping", "dest": "/api/ping.js" }
-  ],
   "headers": [
     {
       "source": "/api/(.*)",
@@ -18,4 +14,3 @@
     }
   ]
 }
-
