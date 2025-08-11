@@ -1,0 +1,289 @@
+{
+  "property": "Hilton Boston Park Plaza",
+  "updated_at": "2025-08-11",
+  "entries": [
+    {
+      "id": "property_address",
+      "question_patterns": [
+        "address",
+        "hotel address",
+        "where is the hotel"
+      ],
+      "answer": "50 Park Plaza, Boston, MA 02116.",
+      "category": "General",
+      "language": "en",
+      "tags": [
+        "address",
+        "location"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "front_desk_contact",
+      "question_patterns": [
+        "front desk",
+        "concierge contact",
+        "call reception",
+        "operator"
+      ],
+      "answer": "Dial 0 from your guestroom phone. Concierge desk is available daily 9:00 AM–5:00 PM by the guest elevators.",
+      "category": "Contact",
+      "language": "en",
+      "tags": [
+        "frontdesk",
+        "concierge",
+        "contact"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "wifi",
+      "question_patterns": [
+        "wifi",
+        "wi-fi",
+        "internet",
+        "how do i get online",
+        "wifi password"
+      ],
+      "answer": "Network: Hilton Honors. Password: 5stars. Hilton Honors members may receive premium access as part of the Destination Charge.",
+      "category": "Connectivity",
+      "language": "en",
+      "tags": [
+        "wifi",
+        "internet"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "check_out",
+      "question_patterns": [
+        "check out",
+        "checkout time",
+        "late checkout",
+        "luggage storage"
+      ],
+      "answer": "Check-out is at 11:00 AM. Late checkout is subject to availability and a possible fee. Luggage storage is available at the Bell Desk in the lobby.",
+      "category": "Policies",
+      "language": "en",
+      "tags": [
+        "checkout",
+        "bell desk",
+        "luggage"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "fitness_center",
+      "question_patterns": [
+        "gym",
+        "fitness",
+        "fitness club",
+        "gym hours"
+      ],
+      "answer": "LYNX Fitness Club (Lower Level, entrance across from Starbucks). Hours: Mon–Fri 5:30 AM–9:30 PM; Sat–Sun 7:00 AM–7:00 PM.",
+      "category": "Amenities",
+      "language": "en",
+      "tags": [
+        "fitness",
+        "gym",
+        "amenities"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "destination_charge",
+      "question_patterns": [
+        "destination charge",
+        "resort fee",
+        "daily fee",
+        "what's included in destination charge"
+      ],
+      "answer": "Daily Mandatory Destination Charge includes: premium internet; $15 daily food & beverage credit (excludes room service); $15 daily dry cleaning credit; Lynx Fitness Club access; PressReader access. Confirm applicability with the Front Desk.",
+      "category": "Policies",
+      "language": "en",
+      "tags": [
+        "fees",
+        "destination charge",
+        "internet"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "phone_instructions",
+      "question_patterns": [
+        "how to dial",
+        "dial room",
+        "dial local",
+        "phone instructions"
+      ],
+      "answer": "To another room: if 4 digits, dial 7 + room number; if 5 digits, dial the room number. Local/domestic: dial 91 + number.",
+      "category": "Guestroom",
+      "language": "en",
+      "tags": [
+        "phone",
+        "dial",
+        "instructions"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "parking_valet",
+      "question_patterns": [
+        "parking",
+        "valet",
+        "price for parking",
+        "where to park"
+      ],
+      "answer": "Valet parking: $70/night with in-and-out privileges at the main entrance. Self-parking: Motor Mart Garage (201 Stuart St) without in-and-out privileges. Street meters enforced 8 AM–8 PM.",
+      "category": "Transport",
+      "language": "en",
+      "tags": [
+        "parking",
+        "valet",
+        "self-parking"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "smoking_policy",
+      "question_patterns": [
+        "smoking",
+        "can i smoke",
+        "vape policy"
+      ],
+      "answer": "Smoke-free property as mandated by local law. Smoking of any kind is not allowed inside the hotel. A $500 + tax penalty applies for violations.",
+      "category": "Policies",
+      "language": "en",
+      "tags": [
+        "smoking",
+        "policy"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "airport_overview",
+      "question_patterns": [
+        "airport",
+        "logan",
+        "getting to airport",
+        "how far is the airport"
+      ],
+      "answer": "Boston Logan International Airport is ~3.7 miles (10–15 minutes by car). Public transportation takes ~30–40 minutes door-to-terminal.",
+      "category": "Transport",
+      "language": "en",
+      "tags": [
+        "airport",
+        "logan",
+        "directions"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "airport_transit_route",
+      "question_patterns": [
+        "public transit to airport",
+        "subway to logan",
+        "how to get to logan by train"
+      ],
+      "answer": "Walk to Arlington Station (Green Line). Take inbound to Government Center, transfer to Blue Line toward Wonderland, get off at Airport Station, then take the free Massport terminal shuttle. Fare ~$2.40. Total ~30–40 minutes.",
+      "category": "Transport",
+      "language": "en",
+      "tags": [
+        "airport",
+        "subway",
+        "mbta"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "rideshare_taxi",
+      "question_patterns": [
+        "uber",
+        "lyft",
+        "taxi",
+        "airport taxi"
+      ],
+      "answer": "Uber, Lyft, and taxis are readily available. Request pickup from 50 Park Plaza. Typical fares to Logan: ~$20–$35 depending on traffic.",
+      "category": "Transport",
+      "language": "en",
+      "tags": [
+        "rideshare",
+        "taxi",
+        "airport"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "off_the_common_hours",
+      "question_patterns": [
+        "breakfast hours",
+        "restaurant hours",
+        "off the common hours",
+        "dinner time"
+      ],
+      "answer": "Off The Common (Lobby Restaurant & Bar). Breakfast: Mon–Fri 6:30 AM–11:00 AM; Sat–Sun 7:00 AM–11:00 AM. Lunch: Daily 12:00 PM–1:30 PM. Dinner: Daily 5:00 PM–10:00 PM. Bar: Sun–Thu 5:00 PM–12:00 AM; Fri–Sat 4:00 PM–1:00 AM.",
+      "category": "Dining",
+      "language": "en",
+      "tags": [
+        "restaurant",
+        "hours",
+        "breakfast",
+        "lunch",
+        "dinner",
+        "bar"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "starbucks_hours",
+      "question_patterns": [
+        "starbucks hours",
+        "coffee",
+        "what time starbucks opens"
+      ],
+      "answer": "Starbucks (Lobby). Mon–Fri 5:00 AM–7:00 PM; Sat–Sun 6:00 AM–6:00 PM. Tip: Skip the line by mobile ordering in the Starbucks app.",
+      "category": "Dining",
+      "language": "en",
+      "tags": [
+        "starbucks",
+        "coffee",
+        "hours"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "mjo_connors_hours",
+      "question_patterns": [
+        "mj o'connors",
+        "irish pub hours",
+        "brunch at mj o'connors"
+      ],
+      "answer": "MJ O’Connors (27 Columbus Ave). Mon–Wed 11:30 AM–1:00 AM (kitchen till 10 PM). Thu 11:30 AM–1:00 AM (kitchen till 12 AM). Fri 11:30 AM–2:00 AM (kitchen till 12 AM). Sat 10:00 AM–2:00 AM (kitchen till 12 AM). Sun 10:00 AM–1:00 AM (kitchen till 10 PM). Brunch: Sat–Sun 10:00 AM–2:00 PM.",
+      "category": "Dining",
+      "language": "en",
+      "tags": [
+        "pub",
+        "hours",
+        "brunch"
+      ],
+      "last_updated": "2025-08-11"
+    },
+    {
+      "id": "concierge_hours_location",
+      "question_patterns": [
+        "concierge hours",
+        "where is concierge",
+        "concierge desk"
+      ],
+      "answer": "Concierge desk is open daily 9:00 AM–5:00 PM, located by the guest elevators.",
+      "category": "Services",
+      "language": "en",
+      "tags": [
+        "concierge",
+        "hours",
+        "location"
+      ],
+      "last_updated": "2025-08-11"
+    }
+  ]
+}
