@@ -1,8 +1,4 @@
 {
-  "functions": {
-    "api/ask.js": { "runtime": "nodejs18.x", "memory": 1024, "maxDuration": 20 },
-    "api/ping.js": { "runtime": "nodejs18.x" }
-  },
   "headers": [
     {
       "source": "/api/(.*)",
@@ -13,4 +9,4 @@
       ]
     }
   ]
-}     
+}
